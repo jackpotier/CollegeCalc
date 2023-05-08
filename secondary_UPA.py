@@ -1,0 +1,4 @@
+# set ranking, universities and percentages found in primary_UPA.py
+primary_selections = ['harvard', 'penn', 'cornell', 'princeton', 'northwestern', 'boston college', 'yale', 'columbia', 'chicago', 'duke', 'georgetown', 'vanderbilt', 'michigan', 'villanova', 'brown', 'usc', 'georgia tech', 'boston university', 'rice', 'illinois', 'dartmouth', 'maryland', 'ohio', 'michigan state', 'virginia']
+primary_percentages = [94.29897056691314, 92.85776424532406, 87.05234159779616, 78.30940988835728, 77.9585326953748, 72.63447875888068, 71.6485428447151, 71.50935189212701, 71.071480353777, 70.40162389444686, 63.19269247498913, 62.93750906191098, 61.22952008119472, 56.94069885457446, 55.09061910975787, 53.36813107148035, 48.59504132231405, 47.49891257068291, 45.8721183123097, 45.680730752501084, 45.32985355951863, 44.30911990720603, 41.24691895026823, 40.73655212411194, 38.43120197187183]
+
