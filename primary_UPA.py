@@ -47,7 +47,7 @@ ncaaFromLast = [
 # define the weighting for each list (adding up to 1.00)
 econ_weight = 0.18  # probable undergrad major
 ibRecruit_weight = 0.30  # probable career path
-overall_weight = 0.12  # how prestigeous the school is
+overall_weight = 0.12  # how prestigious the school is
 cs_weight = 0.05  # probable undergrad minor
 ncaaFromLast_weight = 0.35  # how weak the swim team was at NCAA (weaker = more priority)
 
