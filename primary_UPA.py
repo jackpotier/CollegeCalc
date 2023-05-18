@@ -1,5 +1,5 @@
 # number of universities
-uniCount = 25
+uniCount = 40
 
 # define the ranking lists of universities (all lists are excluding schools that I don't want to attend))
 econRank = [
@@ -45,10 +45,10 @@ ncaaFromLast = [
 
 
 # define the weighting for each list (adding up to 1.00)
-econ_weight = 0.18  # probable undergrad major
+econ_weight = 0.05  # probable undergrad minor
 ibRecruit_weight = 0.30  # probable career path
-overall_weight = 0.12  # how prestigious the school is
-cs_weight = 0.05  # probable undergrad minor
+overall_weight = 0.14  # how prestigious the school is
+cs_weight = 0.16  # probable undergrad major
 ncaaFromLast_weight = 0.35  # how weak the swim team was at NCAA (weaker = more priority)
 
 # calculate lengths of each ranking list
